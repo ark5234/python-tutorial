@@ -1,0 +1,9 @@
+'''class with property x and its value 5'''
+class MyClass():
+    x=5
+    y=4
+    z=43 
+
+
+p1 = MyClass()  #object name p1
+print(p1.z)
